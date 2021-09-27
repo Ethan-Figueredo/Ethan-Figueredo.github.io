@@ -1,4 +1,4 @@
-### About Me
+## About Me
 I am a computer science major with an Innovation minor. Driven student intern with knowledge of product software design testing to
 improve functionality in a fast paced, innovative technology corporation. On the hunt to learn more at fast pace. Frequently noted as hard-working
 by my peers and managers. I can be relied upon to make an impact in
